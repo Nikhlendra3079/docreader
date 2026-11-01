@@ -1,0 +1,1 @@
+FastAPI is a Python web framework. PostgreSQL is a relational database. FAISS performs vector similarity search.

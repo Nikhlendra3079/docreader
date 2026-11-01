@@ -1,0 +1,41 @@
+
+# FastAPI application
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Validation and configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Database: PostgreSQL + asynchronous SQLAlchemy
+sqlalchemy[asyncio]
+asyncpg
+alembic
+
+# LangChain LCEL and integrations
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-openai
+
+# Vector search
+faiss-cpu
+
+# Document processing
+pypdf
+docx2txt
+pandas
+openpyxl
+
+# HTTP client
+httpx
+
+# Authentication
+pwdlib[argon2]
+PyJWT[crypto]
+authlib
+email-validator

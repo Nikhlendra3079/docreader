@@ -1,0 +1,4 @@
+.env
+.rag/
+__pycache__/
+storage/
